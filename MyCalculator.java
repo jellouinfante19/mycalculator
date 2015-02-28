@@ -1,3 +1,4 @@
+
 package myCalculator;
 /**
  * Author: Kristine Elaine P. Bautista
@@ -70,5 +71,7 @@ public class MyCalculator {
 		
 		return -1;	//IF NOT FOUND, -1 TO SIGNIFY ERROR BECAUSE RETURN 0 IS THE NO ERROR
 	}
+
+			
 	
 }
